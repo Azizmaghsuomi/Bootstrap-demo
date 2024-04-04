@@ -1,0 +1,23 @@
+.bg-primary,.btn-primary{
+    background-color:  #6244c5 !important;
+}
+.btn-primary{
+    border-color: #6244c5 !important;
+}
+.bg-dark,.btn-dark{
+    background-color: #12141d !important;
+}
+.bg-warning,.btn-warning{
+    background-color: #ffc448 !important;
+}
+.btn-primary:hover{
+    background-color: #12141d !important;
+}
+
+body{
+    font-family: "0 vazir";
+    font-weight: 600;
+}
+nav{
+    font-family: 'Courier New', Courier, monospace;
+}
